@@ -27,9 +27,12 @@ Hello, I'm Samet Er!
 - Ruby
 - C
 - Go
-vb.. 
+- Dart
+- Swift
+- C++
+- C#
+  
+vb.... 
 ## Contact Me
 You can reach me at temasre@aol.com.
 
-## Fun Fact
-I love scuba diving!
