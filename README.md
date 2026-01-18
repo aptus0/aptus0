@@ -30,7 +30,7 @@ Kurumsal CRM ürünlerinde **Salesforce Platform** üzerinde Apex ve Java tabanl
 ---
 
 ## 👤 Hakkımda
-2019–2023 döneminde mezuniyet sürecimi tamamladıktan sonra yazılım geliştirmeyi profesyonel olarak sürdürdüm; Anadolu Üniversitesi Bilgisayar Programcılığı (Açıköğretim) programındab mezun oldum.
+2019–2023 döneminde mezuniyet sürecimi tamamladıktan sonra yazılım geliştirmeyi profesyonel olarak sürdürdüm; Anadolu Üniversitesi Bilgisayar Programcılığı (Açıköğretim) programından mezun oldum.
 
 Ürün geliştirirken önceliğim; **anlaşılır domain modeli**, **güvenli veri akışı** ve **bakımı kolay mimari**dir. Web application geliştirmede modern front-end pratikleriyle (component-driven UI, tip güvenliği, build pipeline) ilerlerken; backend/API tarafında sürdürülebilir sözleşmeler, doğrulama ve performans optimizasyonlarıyla üretime hazır çözümler geliştiririm.
 
