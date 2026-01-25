@@ -2,7 +2,7 @@
 
 **Salesforce Developer · Apex · Backend & Platform Engineering**
 
-GitHub: https://github.com/aptus0  
+Web : temasre.shop
 Mail: temasre@aol.com
 
 ---
@@ -86,10 +86,3 @@ My background across multiple programming languages and platforms allows me to w
 - Security-first approach  
 - Versioned and documented APIs  
 - Maintainable and scalable architectures  
-
----
-
-## Contact
-
-Mail: hello@temasre.shop  
-GitHub: https://github.com/aptus0
