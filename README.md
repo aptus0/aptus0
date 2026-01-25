@@ -1,71 +1,131 @@
 <div align="center">
-  <h1>Samet Er</h1>
-  <p><strong>Salesforce Developer · Apex & Java</strong></p>
+  <h1>👋 Samet Er</h1>
+  <p><strong>Salesforce Developer · Apex · Backend & Platform Engineering</strong></p>
+
   <p>
     <a href="https://github.com/aptus0">github.com/aptus0</a> ·
     <a href="mailto:hello@temasre.shop">hello@temasre.shop</a>
   </p>
+
   <p>
-    <img alt="Salesforce" src="https://img.shields.io/badge/Salesforce-Apex-00A1E0?logo=salesforce&logoColor=white" />
-    <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white" />
-    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?logo=javascript&logoColor=F7DF1E" />
-    <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
-    <img alt="VSCode" src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white" />
-    <img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/Salesforce-Apex-00A1E0?logo=salesforce&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/>
+    <img src="https://img.shields.io/badge/JavaScript-323330?logo=javascript&logoColor=F7DF1E"/>
+    <img src="https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Swift-F05138?logo=swift&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white"/>
+    <img src="https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black"/>
   </p>
 </div>
 
 ---
 
-## 🧭 Profil Özeti
-Kurumsal CRM ürünlerinde **Salesforce Platform** üzerinde Apex ve Java tabanlı geliştirmeler yapıyorum. Web ve mobil ürün geliştirme, backend/API tasarımı ve güvenlik odaklı yaklaşımları tek mimari altında birleştirerek **ölçeklenebilir** ve **sürdürülebilir** çözümler sunmayı hedeflerim.
+## 💬 iMessage Style — About Me
 
-**Odak noktalarım:**
-- Güvenli veri akışı ve anlaşılır domain modeli
-- Versiyonlanabilir API sözleşmeleri ve performans optimizasyonu
-- Cloud tabanlı mimarilerde operasyonel görünürlük
-- Net dokümantasyon ve ölçülebilir teslim kalitesi
+**🟦 Samet:**  
+Hey! 👋  
+Ben Samet. Salesforce Platform üzerinde **Apex odaklı geliştirmeler**, backend & API mimarileri ve çok dilli yazılım ekosistemlerinde çalışıyorum.
 
----
+**🟩 System:**  
+*Samet is typing…*
 
-## 👤 Hakkımda
-2019–2023 döneminde mezuniyet sürecimi tamamladıktan sonra yazılım geliştirmeyi profesyonel olarak sürdürdüm; Anadolu Üniversitesi Bilgisayar Programcılığı (Açıköğretim) programından mezun oldum.
+**🟦 Samet:**  
+Kod yazarken önceliğim sadece “çalışması” değil;  
+✅ anlaşılır domain modeli  
+✅ güvenli veri akışı  
+✅ ölçeklenebilir mimari  
+✅ bakımı kolay sistemler  
 
-Ürün geliştirirken önceliğim; **anlaşılır domain modeli**, **güvenli veri akışı** ve **bakımı kolay mimari**dir. Web application geliştirmede modern front-end pratikleriyle (component-driven UI, tip güvenliği, build pipeline) ilerlerken; backend/API tarafında sürdürülebilir sözleşmeler, doğrulama ve performans optimizasyonlarıyla üretime hazır çözümler geliştiririm.
-
-Güvenlik odağım pratik ve ölçülebilirdir: pentesting ve web security alanındaki yaklaşımım yalnızca “bulgu” üretmek değil; riskleri azaltan, izlenebilir ve doğru yapılandırılmış sistemler kurmaktır. Cloud & DevOps tarafında ise dağıtım, loglama ve operasyonel görünürlük gibi başlıklarda sürdürülebilir süreçler tasarlamayı önemserim.
-
----
-
-## 🧩 Çalışma Prensipleri
-- **Ürün odaklılık:** İş etkisi ve kullanıcı değeri için net hedefler
-- **Sürdürülebilirlik:** Bakımı kolay, ölçülebilir, dokümante kod
-- **Güvenlik:** Risk azaltma, erişim kontrolü, izlenebilirlik
-- **Kalite:** Testlenebilirlik, performans ve versiyonlama disiplini
+**🟩 System:**  
+*Delivered ✓*
 
 ---
 
-## 🛠️ Teknik Yetkinlikler (Kurumsal Format)
+## 💬 What I Do (Chat View)
 
-| Alan | Yetkinlikler |
-| --- | --- |
-| Uzmanlık | 🌐 Web Application Development · 📱 Mobile Application Development · 🛡️ Pentesting & Web Security · 🧩 Backend & API Development · ☁️ Cloud & DevOps · ⚡ Salesforce Development |
-| Diller (İleri) | <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?logo=javascript&logoColor=F7DF1E" /> <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white" /> <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" /> <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" /> |
-| Mobil | <img alt="Swift" src="https://img.shields.io/badge/Swift-F05138?logo=swift&logoColor=white" /> <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white" /> <img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white" /> |
-| Veritabanları | <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" /> <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white" /> <img alt="SQL" src="https://img.shields.io/badge/SQL-003B57?logo=databricks&logoColor=white" /> <img alt="NoSQL" src="https://img.shields.io/badge/NoSQL-4DB33D?logo=mongodb&logoColor=white" /> |
-| Platformlar | <img alt="Salesforce" src="https://img.shields.io/badge/Salesforce-Apex-00A1E0?logo=salesforce&logoColor=white" /> <img alt="VSCode" src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white" /> <img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" /> <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" /> |
+**🟦 Samet:**  
+Kurumsal tarafta Salesforce Apex ile CRM çözümleri geliştiriyorum.
 
----
+**🟦 Samet:**  
+Web & mobil projelerde backend, API ve platform tarafını üstleniyorum.
 
-## 💼 Güncel Pozisyon
-**Salesforce Developer**
-- Apex & Java tabanlı geliştirme
-- Kurumsal CRM çözümleri
-- Cloud tabanlı mimariler
+**🟦 Samet:**  
+Güvenlik benim için opsiyonel değil —  
+pentesting bilgisiyle riskleri azaltan, doğru yapılandırılmış sistemler kurmayı önemsiyorum.
 
 ---
 
-## 📬 İletişim
-- GitHub: [github.com/aptus0](https://github.com/aptus0)
-- E-posta: [hello@temasre.shop](mailto:hello@temasre.shop)
+## 🛠️ Tech Stack (Quick Reply)
+
+**🟦 Samet:**  
+Bildiğim ve aktif kullandığım teknolojiler 👇
+
+### 👨‍💻 Programming Languages
+- Python  
+- JavaScript  
+- C#  
+- C++  
+- PHP  
+- Ruby  
+- Go  
+
+### 📱 Mobile Development
+- Kotlin  
+- Swift  
+- React Native  
+- Dart  
+
+### ☁️ Salesforce & Platform
+- Salesforce Apex  
+- Salesforce Platform Development  
+- CRM backend & business logic  
+
+### 🗄️ Databases
+- MySQL  
+- PostgreSQL  
+- SQLite  
+- MongoDB  
+- SQL / NoSQL  
+
+### 💻 Operating Systems
+- macOS (primary)  
+- Linux (advanced)  
+- Windows  
+
+### 🔧 Tools
+- Git  
+- GitHub  
+- VS Code  
+- CLI / Shell  
+
+---
+
+## 💬 Work Philosophy (Voice Note 🎧)
+
+**🟦 Samet:**  
+> “Kod, ürüne hizmet etmiyorsa eksiktir.”
+
+- Ürün odaklı düşünme  
+- Temiz ve sürdürülebilir mimari  
+- Güvenlik bilinci  
+- Dokümantasyon & versiyonlama disiplini  
+
+---
+
+## 📩 iMessage — Contact
+
+**🟦 Samet:**  
+Bir projede birlikte çalışmak mı istiyorsun?  
+Teknik bir şey mi danışacaksın?  
+Ya da sadece fikir mi atmak istedin?
+
+**🟦 Samet:**  
+Mesaj atman yeterli 👇
+
+📧 **Mail:** [hello@temasre.shop](mailto:hello@temasre.shop)  
+🐙 **GitHub:** [github.com/aptus0](https://github.com/aptus0)
+
+**🟩 System:**  
+*Seen 👀*
