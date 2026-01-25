@@ -1,68 +1,37 @@
-<div align="center">
-  <h1>👋 Samet Er</h1>
-  <p><strong>Salesforce Developer · Apex · Backend & Platform Engineering</strong></p>
+# Samet Er
 
-  <p>
-    <a href="https://github.com/aptus0">github.com/aptus0</a> ·
-    <a href="mailto:hello@temasre.shop">hello@temasre.shop</a>
-  </p>
+**Salesforce Developer · Apex · Backend & Platform Engineering**
 
-  <p>
-    <img src="https://img.shields.io/badge/Salesforce-Apex-00A1E0?logo=salesforce&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/>
-    <img src="https://img.shields.io/badge/JavaScript-323330?logo=javascript&logoColor=F7DF1E"/>
-    <img src="https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Swift-F05138?logo=swift&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white"/>
-    <img src="https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black"/>
-  </p>
-</div>
+GitHub: https://github.com/aptus0  
+Mail: hello@temasre.shop  
 
 ---
 
-## 💬 iMessage Style — About Me
+## About
 
-**🟦 Samet:**  
-Hey! 👋  
-Ben Samet. Salesforce Platform üzerinde **Apex odaklı geliştirmeler**, backend & API mimarileri ve çok dilli yazılım ekosistemlerinde çalışıyorum.
+I am a software developer focused on Salesforce Platform development, backend systems, and API-driven architectures.  
+My primary expertise lies in Apex-based development, CRM-oriented business logic, and scalable backend design.
 
-**🟩 System:**  
-*Samet is typing…*
+I approach software development with an emphasis on clarity, security, and long-term maintainability.  
+Rather than focusing only on implementation, I aim to design systems that are understandable, testable, and production-ready.
 
-**🟦 Samet:**  
-Kod yazarken önceliğim sadece “çalışması” değil;  
-✅ anlaşılır domain modeli  
-✅ güvenli veri akışı  
-✅ ölçeklenebilir mimari  
-✅ bakımı kolay sistemler  
-
-**🟩 System:**  
-*Delivered ✓*
+My background across multiple programming languages and platforms allows me to work comfortably across different layers of a system — from data modeling and API design to platform-level integrations.
 
 ---
 
-## 💬 What I Do (Chat View)
+## Core Expertise
 
-**🟦 Samet:**  
-Kurumsal tarafta Salesforce Apex ile CRM çözümleri geliştiriyorum.
-
-**🟦 Samet:**  
-Web & mobil projelerde backend, API ve platform tarafını üstleniyorum.
-
-**🟦 Samet:**  
-Güvenlik benim için opsiyonel değil —  
-pentesting bilgisiyle riskleri azaltan, doğru yapılandırılmış sistemler kurmayı önemsiyorum.
+- Salesforce Apex Development  
+- Salesforce Platform & CRM Architecture  
+- Backend & API Development  
+- Secure Data Flow & Access Control  
+- Scalable and Maintainable System Design  
+- Platform-Oriented Software Engineering  
 
 ---
 
-## 🛠️ Tech Stack (Quick Reply)
+## Programming Languages
 
-**🟦 Samet:**  
-Bildiğim ve aktif kullandığım teknolojiler 👇
-
-### 👨‍💻 Programming Languages
 - Python  
 - JavaScript  
 - C#  
@@ -71,61 +40,56 @@ Bildiğim ve aktif kullandığım teknolojiler 👇
 - Ruby  
 - Go  
 
-### 📱 Mobile Development
+---
+
+## Mobile Development
+
 - Kotlin  
 - Swift  
 - React Native  
 - Dart  
 
-### ☁️ Salesforce & Platform
-- Salesforce Apex  
-- Salesforce Platform Development  
-- CRM backend & business logic  
+---
 
-### 🗄️ Databases
+## Databases
+
 - MySQL  
 - PostgreSQL  
 - SQLite  
 - MongoDB  
 - SQL / NoSQL  
 
-### 💻 Operating Systems
-- macOS (primary)  
-- Linux (advanced)  
+---
+
+## Platforms & Operating Systems
+
+- Salesforce Platform (Apex)  
+- macOS  
+- Linux  
 - Windows  
 
-### 🔧 Tools
+---
+
+## Tools & Workflow
+
 - Git  
 - GitHub  
-- VS Code  
+- Visual Studio Code  
 - CLI / Shell  
 
 ---
 
-## 💬 Work Philosophy (Voice Note 🎧)
+## Development Principles
 
-**🟦 Samet:**  
-> “Kod, ürüne hizmet etmiyorsa eksiktir.”
-
-- Ürün odaklı düşünme  
-- Temiz ve sürdürülebilir mimari  
-- Güvenlik bilinci  
-- Dokümantasyon & versiyonlama disiplini  
+- Clean and readable code  
+- Clear domain modeling  
+- Security-first approach  
+- Versioned and documented APIs  
+- Maintainable and scalable architectures  
 
 ---
 
-## 📩 iMessage — Contact
+## Contact
 
-**🟦 Samet:**  
-Bir projede birlikte çalışmak mı istiyorsun?  
-Teknik bir şey mi danışacaksın?  
-Ya da sadece fikir mi atmak istedin?
-
-**🟦 Samet:**  
-Mesaj atman yeterli 👇
-
-📧 **Mail:** [hello@temasre.shop](mailto:hello@temasre.shop)  
-🐙 **GitHub:** [github.com/aptus0](https://github.com/aptus0)
-
-**🟩 System:**  
-*Seen 👀*
+Mail: hello@temasre.shop  
+GitHub: https://github.com/aptus0
