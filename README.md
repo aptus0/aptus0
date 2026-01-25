@@ -3,7 +3,7 @@
 **Salesforce Developer · Apex · Backend & Platform Engineering**
 
 GitHub: https://github.com/aptus0  
-Mail: hello@temasre.shop  
+Mail: temasre@aol.com
 
 ---
 
