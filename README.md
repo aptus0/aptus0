@@ -1,89 +1,118 @@
 <div align="center">
-
-# Hi, I'm Samet ER 👋
-
-### Salesforce-Focused Full-Stack Developer
-
-I build reliable bridges between **Salesforce**, **CRM/ERP platforms**, and real-world business operations.
-
-[![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)](https://www.salesforce.com/)
-[![Apex](https://img.shields.io/badge/Apex-032D60?style=for-the-badge&logo=salesforce&logoColor=white)](https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/)
-[![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/languages/csharp)
-[![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/)
-
-[![Profile Views](https://komarev.com/ghpvc/?username=aptus0&style=flat-square&color=00A1E0)](https://github.com/aptus0)
-[![GitHub followers](https://img.shields.io/github/followers/aptus0?style=flat-square&logo=github)](https://github.com/aptus0?tab=followers)
-
+  <img src="./assets/salesforce-ai-agent-hero.png" width="100%" alt="Samet ER — Salesforce and AI engineering" />
 </div>
 
-## 👨‍💻 About Me
-
-- 🔭 Building CRM, ERP, retail, POS, and Salesforce integration solutions
-- ☁️ Focused on Salesforce development, Apex, automation, and system integrations
-- 🧩 Turning complex business processes into maintainable software
-- 🖥️ Developing desktop and backend solutions with C# and .NET
-- 📍 Based in Bursa, Türkiye
-- 🤝 Open to collaboration on Salesforce and enterprise integration projects
-
-## ☁️ Salesforce & Integration Focus
-
-```text
-Salesforce Platform  →  Apex • Sales Cloud • Business Automation
-Enterprise Systems   →  CRM • ERP • Retail • POS
-Integration Layer    →  REST APIs • Data Synchronization • Middleware
-Engineering          →  C# • .NET • PowerShell • Python • JavaScript
-```
-
-## 🚀 Featured Projects
-
-### [ReSoft Adaptive CRM](https://github.com/aptus0/Re)
-
-Retail ERP and adaptive CRM platform with **Salesforce Sales Cloud integration**. Built across Apex, C#, JavaScript, HTML, CSS, PowerShell, and supporting automation tools.
-
-### [SAMER Hub — POS Tracking](https://github.com/aptus0/INF-5000F-Pos-Tracking)
-
-Windows-based integration platform for restaurants, cafés, markets, and takeaway businesses, connecting POS, cash-register, table, order, and invoicing workflows.
-
-### [Network Manager Releases](https://github.com/aptus0/Network-Manager-Releases)
-
-Windows x64 releases for managing communication between PCs and POS devices.
-
-## 🛠️ Technology Stack
+<br />
 
 <div align="center">
 
-![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
-![Apex](https://img.shields.io/badge/Apex-032D60?style=flat-square&logo=salesforce&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+# Samet ER
+
+### Salesforce · Enterprise Software · AI Automation
+
+I design thoughtful software where **cloud, data, and business operations** meet.
+
+<br />
+
+[![Salesforce](https://img.shields.io/badge/SALESFORCE-0D9DDA?style=for-the-badge&logo=salesforce&logoColor=white)](https://www.salesforce.com/)
+&nbsp;
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-111111?style=for-the-badge&logo=safari&logoColor=white)](https://temasre.shop)
+&nbsp;
+[![Connect](https://img.shields.io/badge/LET'S_CONNECT-F5F5F7?style=for-the-badge&logo=github&logoColor=111111)](https://github.com/aptus0)
 
 </div>
 
-## 📊 GitHub Activity
+<br />
+
+## Building systems that feel simple.
+
+I'm a full-stack developer focused on **Salesforce solutions, enterprise integrations, CRM/ERP platforms, and intelligent automation**. I turn complex operational workflows into clear, reliable, and maintainable products.
+
+- Salesforce development with **Apex, Sales Cloud, automation, and integrations**
+- Enterprise applications with **C#, .NET, Java, JavaScript, and PHP**
+- CRM, ERP, retail, POS, and data synchronization architectures
+- API-first systems designed around real business processes
+
+<br />
+
+## Salesforce
+
+| Platform engineering | Integration | Automation |
+| :--- | :--- | :--- |
+| Apex development | REST APIs | Business workflows |
+| Sales Cloud solutions | CRM & ERP synchronization | Process automation |
+| Data modeling | External systems | Intelligent agents |
+
+<br />
+
+## Core expertise
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=aptus0&show_icons=true&theme=transparent&hide_border=true&title_color=00A1E0&icon_color=00A1E0&text_color=6e7781" alt="Samet's GitHub statistics" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aptus0&layout=compact&theme=transparent&hide_border=true&title_color=00A1E0&text_color=6e7781" alt="Most used languages" />
+|  | Language | Ecosystem |
+| :---: | :--- | :--- |
+| ☁️ | **Apex** | Salesforce · Sales Cloud · SOQL · Lightning |
+| ◼︎ | **C#** | .NET · ASP.NET Core · Windows Applications |
+| ◆ | **JavaScript** | Node.js · React · Next.js · Express |
+| ● | **PHP** | Laravel · REST APIs · MySQL |
+| ◇ | **Java** | Spring Boot · Enterprise Applications |
 
 </div>
 
-## 🌐 Let's Connect
+### Also working with
 
-<div align="center">
+`HTML5` · `CSS3` · `TypeScript` · `Python` · `PowerShell` · `SQL` · `Git` · `Docker` · `REST` · `JSON`
 
-[![Website](https://img.shields.io/badge/Website-temasre.shop-00A1E0?style=for-the-badge&logo=googlechrome&logoColor=white)](https://temasre.shop)
-[![GitHub](https://img.shields.io/badge/GitHub-aptus0-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aptus0)
+<br />
 
-</div>
+## Selected work
+
+### ReSoft Adaptive CRM
+
+An adaptive CRM and retail ERP platform with **Salesforce Sales Cloud integration**, connecting customer data, operational processes, and enterprise workflows.
+
+[View project →](https://github.com/aptus0/Re)
 
 ---
 
+### SAMER Hub
+
+A Windows-based integration platform for restaurants, cafés, markets, and takeaway businesses—bringing POS, orders, tables, cash registers, and invoicing into one operational flow.
+
+[View project →](https://github.com/aptus0/INF-5000F-Pos-Tracking)
+
+---
+
+### Network Manager
+
+A focused Windows utility for managing communication between PCs and POS devices.
+
+[View releases →](https://github.com/aptus0/Network-Manager-Releases)
+
+<br />
+
+## Engineering principles
+
+> **Clarity over complexity.**  
+> Reliable integrations. Thoughtful interfaces. Software built around people and operations.
+
+<br />
+
 <div align="center">
-  <sub>Building practical systems where Salesforce meets real business operations.</sub>
+
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=aptus0&show_icons=true&hide_title=true&hide_border=true&bg_color=00000000&text_color=6E6E73&icon_color=0D9DDA&ring_color=0D9DDA" alt="Samet ER GitHub statistics" />
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aptus0&layout=compact&hide_border=true&bg_color=00000000&title_color=1D1D1F&text_color=6E6E73&langs_count=6" alt="Samet ER most used languages" />
+
+<br /><br />
+
+**Bursa, Türkiye** &nbsp;·&nbsp; Open to Salesforce and enterprise software collaborations
+
+<br />
+
+[Website](https://temasre.shop) &nbsp;&nbsp; [GitHub](https://github.com/aptus0)
+
+<br />
+
+<sub>Designed with simplicity. Engineered for impact.</sub>
+
 </div>
