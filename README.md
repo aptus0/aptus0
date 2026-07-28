@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/aptus0/aptus0/main/assets/salesforce-ai-agent-hero-animated.gif" width="100%" alt="Samet ER — animated Salesforce AI engineer banner" />
+  <img src="https://raw.githubusercontent.com/aptus0/aptus0/main/assets/salesforce-ai-agent-hero-animated.gif?v=2" width="100%" alt="Samet ER — animated Salesforce AI engineer banner" />
 </div>
 
 <div align="center">
