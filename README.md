@@ -4,7 +4,7 @@
 
 <div align="center">
   <br />
-  <img src="https://cdn.simpleicons.org/salesforce/0D9DDA" width="72" alt="Salesforce" />
+  <img src="https://raw.githubusercontent.com/aptus0/aptus0/main/assets/salesforce.svg" width="92" alt="Salesforce" />
   <h1>Samet ER</h1>
   <h3>Salesforce Engineer · Full-Stack Developer · AI Automation</h3>
   <p>
