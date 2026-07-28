@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/aptus0/aptus0/main/assets/salesforce-ai-agent-hero-animated.gif?v=2" width="100%" alt="Samet ER — animated Salesforce AI engineer banner" />
+  <img src="https://raw.githubusercontent.com/aptus0/aptus0/main/assets/salesforce-ai-agent-hero-animated.gif?v=3" width="100%" alt="Samet ER — animated Salesforce enterprise AI engineer banner" />
 </div>
 
 <div align="center">
@@ -69,6 +69,12 @@ I create enterprise products that connect **Salesforce, CRM, ERP, retail, and PO
 
 ## Expertise
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/aptus0/aptus0/main/assets/technology-ecosystem.png" width="100%" alt="Samet ER engineering ecosystem — JavaScript, TypeScript, PHP, C Sharp, Java, .NET, React, Node.js, Laravel and Spring" />
+</div>
+
+<br />
+
 ```text
 SALESFORCE     Apex · SOQL · Sales Cloud · Lightning · Automation
 BACKEND        C# · .NET · Java · Spring Boot · PHP · Laravel
@@ -76,16 +82,6 @@ FRONTEND       JavaScript · TypeScript · React · Next.js
 PLATFORM       Node.js · REST APIs · SQL · Docker · Git
 AUTOMATION     AI Agents · Python · PowerShell · Data Workflows
 ```
-
-<br />
-
-### Core languages
-
-`JavaScript` &nbsp; `TypeScript` &nbsp; `PHP` &nbsp; `C#` &nbsp; `Java` &nbsp; `Apex` &nbsp; `Python`
-
-### Frameworks & tools
-
-`.NET` &nbsp; `ASP.NET Core` &nbsp; `React` &nbsp; `Next.js` &nbsp; `Node.js` &nbsp; `Laravel` &nbsp; `Spring Boot` &nbsp; `Docker`
 
 <br />
 
