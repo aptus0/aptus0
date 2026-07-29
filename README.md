@@ -1,147 +1,89 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/aptus0/aptus0/main/assets/salesforce-ai-agent-hero-animated.gif?v=3" width="100%" alt="Samet ER — animated Salesforce enterprise AI engineer banner" />
-</div>
+  <a href="https://aptus0.github.io/">
+    <img src="https://aptus0.github.io/logo.svg" width="260" alt="Samet ER — Salesforce Developer" />
+  </a>
 
-<div align="center">
   <br />
-  <img src="https://raw.githubusercontent.com/aptus0/aptus0/main/assets/salesforce.png" width="86" alt="Salesforce cloud logo" />
+  <br />
 
 # Samet ER
 
-### Salesforce Engineer · Enterprise Architect · Full-Stack Developer
+### Salesforce Engineer · Enterprise Systems · Full-Stack Development
 
-Building intelligent software at the intersection of  
-**Salesforce · Enterprise Systems · AI Automation**
+I turn complex Salesforce, CRM, ERP and retail operations into  
+**clear, reliable and scalable software.**
 
 <br />
 
-[**Website**](https://sameter.com.tr) &nbsp;·&nbsp;
+[**Portfolio**](https://aptus0.github.io/) &nbsp;·&nbsp;
+[**Projects**](https://aptus0.github.io/projects/) &nbsp;·&nbsp;
+[**Services**](https://aptus0.github.io/services/) &nbsp;·&nbsp;
+[**About**](https://aptus0.github.io/about/)
+
 [**LinkedIn**](https://www.linkedin.com/in/samet-er-75915a3a3/) &nbsp;·&nbsp;
-[**Projects**](https://github.com/aptus0?tab=repositories)
+[**GitHub**](https://github.com/aptus0)
 
 </div>
-
-<br />
 
 ---
 
-<br />
+## What I build
 
-## Engineering complex systems. Delivering simple experiences.
+I design and develop enterprise products across the Salesforce ecosystem. My work connects customer data, sales processes, service operations, ERP systems and retail infrastructure through maintainable architecture and thoughtful interfaces.
 
-I create enterprise products that connect **Salesforce, CRM, ERP, retail, and POS operations**. My work combines cloud architecture, strong backend engineering, modern interfaces, and reliable integrations.
-
-<br />
-
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <h3>☁️ Salesforce</h3>
-      <p>
-        Apex & SOQL<br />
-        Sales Cloud<br />
-        Lightning ecosystem<br />
-        Data architecture
-      </p>
-    </td>
-    <td width="33%" valign="top">
-      <h3>✦ Intelligence</h3>
-      <p>
-        AI agents<br />
-        Business automation<br />
-        Smart workflows<br />
-        Operational insight
-      </p>
-    </td>
-    <td width="33%" valign="top">
-      <h3>↗ Integration</h3>
-      <p>
-        REST APIs<br />
-        CRM & ERP sync<br />
-        Middleware<br />
-        External systems
-      </p>
-    </td>
-  </tr>
-</table>
-
-<br />
-
-## Expertise
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/aptus0/aptus0/main/assets/technology-ecosystem.png" width="100%" alt="Samet ER engineering ecosystem — JavaScript, TypeScript, PHP, C Sharp, Java, .NET, React, Node.js, Laravel and Spring" />
-</div>
-
-<br />
+| Salesforce Development | Enterprise Integration | Full-Stack Solutions |
+|---|---|---|
+| Apex & SOQL | REST & SOAP APIs | C# & .NET |
+| Lightning Web Components | CRM–ERP synchronization | Java & Spring Boot |
+| Flow automation | POS and external systems | React & Next.js |
+| Sales & Service Cloud | Data migration | SQL & Docker |
 
 ```text
-SALESFORCE     Apex · SOQL · Sales Cloud · Lightning · Automation
-BACKEND        C# · .NET · Java · Spring Boot · PHP · Laravel
-FRONTEND       JavaScript · TypeScript · React · Next.js
-PLATFORM       Node.js · REST APIs · SQL · Docker · Git
-AUTOMATION     AI Agents · Python · PowerShell · Data Workflows
+SALESFORCE    Apex · SOQL · LWC · Flow · Sales Cloud · Service Cloud
+INTEGRATION   REST API · SOAP API · Platform Events · CRM · ERP · POS
+BACKEND       C# · .NET · Java · Spring Boot · PHP · Laravel
+FRONTEND      JavaScript · TypeScript · React · Next.js
+PLATFORM      SQL · Docker · Git · Windows · Linux
 ```
-
-<br />
 
 ---
 
-<br />
+## Selected projects
 
-## Selected work
-
-### ReSoft Adaptive CRM
+### [ReSoft Adaptive CRM](https://github.com/aptus0/Re)
 
 **Salesforce-connected CRM and retail ERP**
 
-An adaptive enterprise platform connecting customer data, retail operations, and business workflows with Salesforce Sales Cloud.
+An adaptive enterprise platform that connects customer data, retail operations and business workflows with Salesforce Sales Cloud.
 
 `Salesforce` `Apex` `C#` `JavaScript` `CRM` `ERP`
 
-[Explore ReSoft →](https://github.com/aptus0/Re)
-
-<br />
-
-### SAMER Hub
+### [SAMER Hub](https://github.com/aptus0/INF-5000F-Pos-Tracking)
 
 **Unified POS and operations platform**
 
-A Windows solution that brings POS devices, tables, orders, cash registers, and invoicing into one reliable operational flow.
+A Windows solution that brings POS devices, tables, orders, cash registers and invoicing into one reliable operational flow.
 
 `C#` `.NET` `PowerShell` `POS` `Retail`
 
-[Explore SAMER Hub →](https://github.com/aptus0/INF-5000F-Pos-Tracking)
-
-<br />
-
-### Network Manager
+### [Network Manager](https://github.com/aptus0/Network-Manager-Releases)
 
 **Reliable PC-to-POS communication**
 
 A focused Windows utility for managing network communication between computers and POS devices.
 
-[View releases →](https://github.com/aptus0/Network-Manager-Releases)
-
-<br />
+`Windows` `Network` `POS` `Operations`
 
 ---
 
-<br />
-
 <div align="center">
 
-### Great software should feel inevitable.
+### Clear architecture. Reliable integrations. Thoughtful experiences.
 
-Clear architecture. Reliable integrations. Thoughtful experiences.
+Open to Salesforce and enterprise software collaborations.
 
-<br />
-
-**Open to Salesforce and enterprise software collaborations.**
-
-[sameter.com.tr](https://sameter.com.tr) &nbsp;·&nbsp;
-[LinkedIn](https://www.linkedin.com/in/samet-er-75915a3a3/) &nbsp;·&nbsp;
-[GitHub](https://github.com/aptus0)
+[aptus0.github.io](https://aptus0.github.io/) &nbsp;·&nbsp;
+[LinkedIn](https://www.linkedin.com/in/samet-er-75915a3a3/)
 
 <br />
 
