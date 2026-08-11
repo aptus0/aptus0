@@ -1,6 +1,6 @@
 <div align="center">
-  <a href="https://aptus0.github.io/">
-    <img src="https://aptus0.github.io/logo.svg" width="260" alt="Samet ER — Salesforce Developer" />
+  <a href="https://sametre.github.io/">
+    <img src="https://sametre.github.io/logo.svg" width="260" alt="Samet ER — Salesforce Developer" />
   </a>
 
   <br />
@@ -15,13 +15,13 @@ I turn complex Salesforce, CRM, ERP and retail operations into
 
 <br />
 
-[**Portfolio**](https://aptus0.github.io/) &nbsp;·&nbsp;
-[**Projects**](https://aptus0.github.io/projects/) &nbsp;·&nbsp;
-[**Services**](https://aptus0.github.io/services/) &nbsp;·&nbsp;
-[**About**](https://aptus0.github.io/about/)
+[**Portfolio**](https://sametre.github.io/) &nbsp;·&nbsp;
+[**Projects**](https://sametre.github.io/projects/) &nbsp;·&nbsp;
+[**Services**](https://sametre.github.io/services/) &nbsp;·&nbsp;
+[**About**](https://sametre.github.io/about/)
 
 [**LinkedIn**](https://www.linkedin.com/in/samet-er-75915a3a3/) &nbsp;·&nbsp;
-[**GitHub**](https://github.com/aptus0)
+[**GitHub**](https://github.com/sametre)
 
 </div>
 
@@ -50,7 +50,7 @@ PLATFORM      SQL · Docker · Git · Windows · Linux
 
 ## Selected projects
 
-### [ReSoft Adaptive CRM](https://github.com/aptus0/Re)
+### [ReSoft Adaptive CRM](https://github.com/sametre/Re)
 
 **Salesforce-connected CRM and retail ERP**
 
@@ -58,7 +58,7 @@ An adaptive enterprise platform that connects customer data, retail operations a
 
 `Salesforce` `Apex` `C#` `JavaScript` `CRM` `ERP`
 
-### [SAMER Hub](https://github.com/aptus0/INF-5000F-Pos-Tracking)
+### [SAMER Hub](https://github.com/sametre/INF-5000F-Pos-Tracking)
 
 **Unified POS and operations platform**
 
@@ -66,7 +66,7 @@ A Windows solution that brings POS devices, tables, orders, cash registers and i
 
 `C#` `.NET` `PowerShell` `POS` `Retail`
 
-### [Network Manager](https://github.com/aptus0/Network-Manager-Releases)
+### [Network Manager](https://github.com/sametre/Network-Manager-Releases)
 
 **Reliable PC-to-POS communication**
 
@@ -82,7 +82,7 @@ A focused Windows utility for managing network communication between computers a
 
 Open to Salesforce and enterprise software collaborations.
 
-[aptus0.github.io](https://aptus0.github.io/) &nbsp;·&nbsp;
+[sametre.github.io](https://sametre.github.io/) &nbsp;·&nbsp;
 [LinkedIn](https://www.linkedin.com/in/samet-er-75915a3a3/)
 
 <br />
