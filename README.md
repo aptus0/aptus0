@@ -10,8 +10,19 @@
 
 ### Salesforce Engineer · Enterprise Systems · Full-Stack Development
 
+<img src="https://img.shields.io/badge/PLAYER_01-SAMET_ER-7C3AED?style=for-the-badge&labelColor=111827" alt="Player 01 Samet ER" />
+<img src="https://img.shields.io/badge/CLASS-SALESFORCE_ENGINEER-00A1E0?style=for-the-badge&labelColor=111827" alt="Class Salesforce Engineer" />
+<img src="https://img.shields.io/badge/STATUS-BUILDING-22C55E?style=for-the-badge&labelColor=111827" alt="Status Building" />
+
 I turn complex Salesforce, CRM, ERP and retail operations into  
 **clear, reliable and scalable software.**
+
+```text
+╔══════════════════════════════════════════════════════════╗
+║  MISSION: turn complex operations into delightful tools  ║
+║  STACK: Salesforce · Integrations · Full-stack systems   ║
+╚══════════════════════════════════════════════════════════╝
+```
 
 <br />
 
@@ -46,6 +57,24 @@ FRONTEND      JavaScript · TypeScript · React · Next.js
 PLATFORM      SQL · Docker · Git · Windows · Linux
 ```
 
+## Current quest
+
+### [Archer of God](https://sametre.github.io/archer-of-god/)
+
+**A playable pixel-fantasy archery and card strategy game**
+
+Drag to aim, master elemental cards, grow your archer and face multi-phase bosses. Built as a responsive web and mobile game with a React app shell and Phaser battle arena.
+
+[**Play now →**](https://sametre.github.io/archer-of-god/) &nbsp;·&nbsp;
+[Source code](https://github.com/sametre/archer-of-god)
+
+`React` `TypeScript` `Phaser` `Zustand` `Capacitor` `GitHub Pages`
+
+```text
+  [ PLAYER ] ────🏹────> [ ARENA ] ────> [ BOSS ]
+  Build a deck · Forge equipment · Clear the domains
+```
+
 ---
 
 ## Selected projects
@@ -73,6 +102,15 @@ A Windows solution that brings POS devices, tables, orders, cash registers and i
 A focused Windows utility for managing network communication between computers and POS devices.
 
 `Windows` `Network` `POS` `Operations`
+
+---
+
+## Salesforce toolkit
+
+| Build | Connect | Automate |
+|---|---|---|
+| Apex · SOQL · LWC | REST · SOAP · Platform Events | Flow · Validation · Security |
+| Sales Cloud · Service Cloud | CRM · ERP · POS | Data migration · Release workflows |
 
 ---
 
