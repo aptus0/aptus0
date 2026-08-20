@@ -8,6 +8,10 @@
 
 # Samet ER
 
+  <img src="https://raw.githubusercontent.com/sametre/sametre/main/assets/pixel-intro.svg" width="900" alt="Animated pixel portfolio loading screen" />
+
+  <br />
+
 ### Salesforce Engineer · Enterprise Systems · Full-Stack Development
 
 <img src="https://img.shields.io/badge/PLAYER_01-SAMET_ER-7C3AED?style=for-the-badge&labelColor=111827" alt="Player 01 Samet ER" />
