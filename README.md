@@ -18,7 +18,7 @@
 <img src="https://img.shields.io/badge/SPECIALTY-AGENTFORCE-00A1E0?style=for-the-badge&labelColor=111827" alt="Specialty Agentforce" />
 <img src="https://img.shields.io/badge/FOCUS-TRUSTED_AI_AUTOMATION-22C55E?style=for-the-badge&labelColor=111827" alt="Focus trusted AI automation" />
 
-I design Salesforce and Agentforce experiences that turn complex CRM, ERP and service operations into  
+I design Salesforce and Agentforce experiences that turn complex CRM, ERP and service operations into
 **trusted, useful and scalable outcomes.**
 
 ```text
