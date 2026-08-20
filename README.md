@@ -12,19 +12,19 @@
 
   <br />
 
-### Salesforce Engineer · Enterprise Systems · Full-Stack Development
+### Salesforce Agentforce · AI CRM · Enterprise Systems
 
 <img src="https://img.shields.io/badge/PLAYER_01-SAMET_ER-7C3AED?style=for-the-badge&labelColor=111827" alt="Player 01 Samet ER" />
-<img src="https://img.shields.io/badge/CLASS-SALESFORCE_ENGINEER-00A1E0?style=for-the-badge&labelColor=111827" alt="Class Salesforce Engineer" />
-<img src="https://img.shields.io/badge/STATUS-BUILDING-22C55E?style=for-the-badge&labelColor=111827" alt="Status Building" />
+<img src="https://img.shields.io/badge/SPECIALTY-AGENTFORCE-00A1E0?style=for-the-badge&labelColor=111827" alt="Specialty Agentforce" />
+<img src="https://img.shields.io/badge/FOCUS-TRUSTED_AI_AUTOMATION-22C55E?style=for-the-badge&labelColor=111827" alt="Focus trusted AI automation" />
 
-I turn complex Salesforce, CRM, ERP and retail operations into  
-**clear, reliable and scalable software.**
+I design Salesforce and Agentforce experiences that turn complex CRM, ERP and service operations into  
+**trusted, useful and scalable outcomes.**
 
 ```text
 ╔══════════════════════════════════════════════════════════╗
-║  MISSION: turn complex operations into delightful tools  ║
-║  STACK: Salesforce · Integrations · Full-stack systems   ║
+║  MISSION: design trusted AI agents for enterprise teams  ║
+║  STACK: Agentforce · Salesforce · Integrations · AI CRM  ║
 ╚══════════════════════════════════════════════════════════╝
 ```
 
@@ -42,24 +42,32 @@ I turn complex Salesforce, CRM, ERP and retail operations into
 
 ---
 
-## What I build
+## Agentforce & Salesforce practice
 
-I design and develop enterprise products across the Salesforce ecosystem. My work connects customer data, sales processes, service operations, ERP systems and retail infrastructure through maintainable architecture and thoughtful interfaces.
+I build agent-ready enterprise systems across the Salesforce ecosystem. The focus is grounded AI: connecting trusted customer and operational data to intelligent experiences, clear guardrails and measurable business workflows.
 
-| Salesforce Development | Enterprise Integration | Full-Stack Solutions |
+| Agentforce & AI CRM | Salesforce Engineering | Enterprise Integration |
 |---|---|---|
-| Apex & SOQL | REST & SOAP APIs | C# & .NET |
-| Lightning Web Components | CRM–ERP synchronization | Java & Spring Boot |
-| Flow automation | POS and external systems | React & Next.js |
-| Sales & Service Cloud | Data migration | SQL & Docker |
+| Agent actions & topics | Apex · SOQL · LWC | REST · SOAP APIs |
+| Trusted data grounding | Flow automation | Platform Events |
+| Sales & Service workflows | Sales & Service Cloud | CRM–ERP synchronization |
+| Human handoff patterns | Security & sharing | POS and external systems |
 
 ```text
+AGENTFORCE    Agent actions · Topics · Grounding · Human handoff · Trust
 SALESFORCE    Apex · SOQL · LWC · Flow · Sales Cloud · Service Cloud
 INTEGRATION   REST API · SOAP API · Platform Events · CRM · ERP · POS
-BACKEND       C# · .NET · Java · Spring Boot · PHP · Laravel
-FRONTEND      JavaScript · TypeScript · React · Next.js
-PLATFORM      SQL · Docker · Git · Windows · Linux
+ENGINEERING   TypeScript · React · C# · .NET · Java · SQL · Docker
 ```
+
+## How I approach agentic CRM
+
+```text
+TRUSTED DATA  ──>  AGENTFORCE  ──>  GUIDED ACTION  ──>  HUMAN / CUSTOMER VALUE
+Salesforce         Context + guardrails    Flow, Apex, APIs        Traceable outcomes
+```
+
+I approach AI agents as enterprise products: start with a useful job to be done, ground responses in governed data, connect actions to clear business processes and keep people in control where judgment matters.
 
 ## Current quest
 
@@ -85,11 +93,11 @@ Drag to aim, master elemental cards, grow your archer and face multi-phase bosse
 
 ### [ReSoft Adaptive CRM](https://github.com/sametre/Re)
 
-**Salesforce-connected CRM and retail ERP**
+**Agent-ready Salesforce CRM and retail ERP**
 
-An adaptive enterprise platform that connects customer data, retail operations and business workflows with Salesforce Sales Cloud.
+An adaptive enterprise platform that connects customer data, retail operations and business workflows with Salesforce Sales Cloud—designed as a strong foundation for guided, AI-assisted operations.
 
-`Salesforce` `Apex` `C#` `JavaScript` `CRM` `ERP`
+`Agentforce-ready` `Salesforce` `Apex` `C#` `CRM` `ERP`
 
 ### [SAMER Hub](https://github.com/sametre/INF-5000F-Pos-Tracking)
 
@@ -109,20 +117,20 @@ A focused Windows utility for managing network communication between computers a
 
 ---
 
-## Salesforce toolkit
+## Delivery toolkit
 
-| Build | Connect | Automate |
+| Agent experience | Build | Connect |
 |---|---|---|
-| Apex · SOQL · LWC | REST · SOAP · Platform Events | Flow · Validation · Security |
-| Sales Cloud · Service Cloud | CRM · ERP · POS | Data migration · Release workflows |
+| Topics · actions · grounding | Apex · SOQL · LWC | REST · SOAP · Platform Events |
+| Trust · handoff · observability | Flow · Validation · Security | CRM · ERP · POS |
 
 ---
 
 <div align="center">
 
-### Clear architecture. Reliable integrations. Thoughtful experiences.
+### Trusted AI. Clear architecture. Reliable enterprise outcomes.
 
-Open to Salesforce and enterprise software collaborations.
+Open to Salesforce, Agentforce and enterprise AI collaborations.
 
 [sametre.github.io](https://sametre.github.io/) &nbsp;·&nbsp;
 [LinkedIn](https://www.linkedin.com/in/samet-er-75915a3a3/)

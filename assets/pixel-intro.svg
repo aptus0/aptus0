@@ -1,6 +1,6 @@
 <svg width="900" height="300" viewBox="0 0 900 300" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title description">
   <title id="title">Samet ER pixel portfolio loading screen</title>
-  <desc id="description">An animated pixel-art loading screen for a Salesforce engineer and full-stack developer.</desc>
+  <desc id="description">An animated pixel-art loading screen for an Agentforce and Salesforce engineer.</desc>
   <rect width="900" height="300" rx="18" fill="#080B16"/>
   <rect x="18" y="18" width="864" height="264" rx="10" fill="#10172B" stroke="#29355B" stroke-width="2"/>
   <path d="M18 74H882M18 226H882" stroke="#29355B" stroke-width="2" stroke-dasharray="6 10"/>
@@ -21,9 +21,9 @@
     <animateTransform attributeName="transform" type="translate" values="112 111;112 101;112 111" dur="1.4s" repeatCount="indefinite"/>
   </g>
   <g font-family="monospace">
-    <text x="245" y="135" fill="#F8FAFC" font-size="27" font-weight="bold" letter-spacing="2">PIXEL SYSTEMS ONLINE</text>
-    <text x="245" y="163" fill="#71D7FF" font-size="15">SALESFORCE  •  INTEGRATIONS  •  FULL-STACK</text>
-    <text x="245" y="190" fill="#94A3B8" font-size="14">Loading reliable architecture...</text>
+    <text x="245" y="135" fill="#F8FAFC" font-size="27" font-weight="bold" letter-spacing="2">AGENTFORCE ONLINE</text>
+    <text x="245" y="163" fill="#71D7FF" font-size="15">TRUSTED AI  •  SALESFORCE  •  INTEGRATIONS</text>
+    <text x="245" y="190" fill="#94A3B8" font-size="14">Loading enterprise agent architecture...</text>
   </g>
   <rect x="245" y="207" width="500" height="14" rx="2" fill="#1E293B"/>
   <rect x="245" y="207" width="500" height="14" rx="2" fill="#22C55E">
